@@ -7,7 +7,25 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
+<h2>2023</h2>
 
+<ul>
+	<li>
+		Fairer Together: Mitigating Disparate Exposure in Kemeny Rank Aggregation</a>
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2023 </i>
+		
+	</li>
+
+	<li>
+		Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms in Visualizations for Consensus Ranking</a>
+		<br>Hilson Shrestha, <strong>Kathleen Cachel</strong>, Mallak Alkhathlan, Elke Rundensteiner, and Lane Harrison
+		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2023 </i>
+		
+	</li>
+
+
+</ul>
 
 <h2>2022</h2>
 
