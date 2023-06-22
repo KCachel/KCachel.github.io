@@ -11,16 +11,18 @@ comments: true
 
 <ul>
 	<li>
-		Fairer Together: Mitigating Disparate Exposure in Kemeny Rank Aggregation
+		<a href = "https://dl.acm.org/doi/10.1145/3593013.3594085">Fairer Together: Mitigating Disparate Exposure in Kemeny Rank Aggregation</a>
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2023 </i>
+  		<br>[<a href="https://github.com/KCachel/Fairer-Together-Mitigating-Disparate-Exposure-in-Kemeny-Aggregation">Code</a>] [<a href="https://www.youtube.com/watch?v=_cvlkopxrAI">Video</a>]	
 		
 	</li>
 
 	<li>
-		Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms in Visualizations for Consensus Ranking
+		<a href = "https://dl.acm.org/doi/10.1145/3593013.3594108">Help or Hinder? Evaluating the Impact of Fairness Metrics and Algorithms in Visualizations for Consensus Ranking</a>
 		<br>Hilson Shrestha, <strong>Kathleen Cachel</strong>, Mallak Alkhathlan, Elke Rundensteiner, and Lane Harrison
 		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2023 </i>
+  		 [<a href="https://www.youtube.com/watch?v=7UEfP_kOWwM">Video</a>]	
 		
 	</li>
 
@@ -33,21 +35,21 @@ comments: true
 	<li>
 		<a href = "https://arxiv.org/abs/2207.07765">FairFuse Interactive Visual Support for Fair Consensus Ranking</a>
 		<br>Hilson Shrestha, <strong>Kathleen Cachel</strong>, Mallak Alkhathlan, Elke Rundensteiner, and Lane Harrison
-		<br><i>IEEE VIS, 2022</i>
+		<br><i>IEEE Visualization and Visual Analytics. (VIS) 2022</i>
 		<br>[<a href="https://osf.io/hd639/">Code</a>] 
 	</li>
 
 	<li>
 		<a href = "https://dl.acm.org/doi/10.1145/3514094.3534160">FINS Auditing Framework: Group Fairness for Subset Selections</a>
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
-		<br><i>AAAI/ACM Conference on AI, Ethics, and Society (AIES) 2022 </i>
+		<br><i>AAAI/ACM Conference on AI, Ethics, and Society. (AIES) 2022 </i>
 		<br>[<a href="https://github.com/KCachel/fins">Code</a>] [<a href="https://pypi.org/project/finsfairauditing">Pypi</a>]
 	</li>
 
 	<li>
 		<a href = "https://arxiv.org/abs/2207.10020">MANI-RANK: Multi-attribute and Intersectional Group Fairness for Consensus Ranking</a>
 		<br><strong>Kathleen Cachel</strong>, Elke Rundensteiner, Lane Harrison
-		<br><i>IEEE International Conference on Data Engineering (ICDE) 2022</i>
+		<br><i>IEEE International Conference on Data Engineering. (ICDE) 2022</i>
 		<br>[<a href="https://github.com/KCachel/MANI-Rank">Code</a>] [<a href="https://www.youtube.com/watch?v=RzsKzGti2a4">Video</a>]
 	</li>
 </ul>
