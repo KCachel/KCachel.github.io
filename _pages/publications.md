@@ -11,10 +11,25 @@ comments: true
 
 <ul>
 	<li>
+		<a href = >Fair & Share: Fast and Fair Multi-Criteria Selections</a>
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2023</i>
+  		<br><i>Upcoming in October.</i>
+  			
+		
+	</li>
+	<li>
+		<a href = "https://kcachel.github.io/assets/pdfs/Cachel-AIES23-poster.pdf">Ranked Candidate Fairness in Preference Aggregation</a>
+		<br><strong>Kathleen Cachel</strong> 
+		<br><i>AAAI/ACM Conference on AI, Ethics, and Society - Student Abstract. (AIES) 2023</i>
+  		<br>[<a href="https://KCachel.github.io/assets/pdfs/Cachel-AIES23-poster.pdf">Poster</a>]	
+		
+	</li>
+	<li>
 		<a href = "https://dl.acm.org/doi/10.1145/3593013.3594085">Fairer Together: Mitigating Disparate Exposure in Kemeny Rank Aggregation</a>
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2023 </i>
-  		<br>[<a href="https://github.com/KCachel/Fairer-Together-Mitigating-Disparate-Exposure-in-Kemeny-Aggregation">Code</a>] [<a href="https://www.youtube.com/watch?v=_cvlkopxrAI">Video</a>]	
+  		<br>[<a href="https://github.com/KCachel/Fairer-Together-Mitigating-Disparate-Exposure-in-Kemeny-Aggregation">Code</a>] [<a href="https://www.youtube.com/watch?v=_cvlkopxrAI">Video</a>]
 		
 	</li>
 
