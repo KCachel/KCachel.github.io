@@ -11,7 +11,7 @@ comments: true
 
 <ul>
 	<li>
-		<a href = >Fair & Share: Fast and Fair Multi-Criteria Selections</a>
+		Fair & Share: Fast and Fair Multi-Criteria Selections
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2023</i>
   		<br><i>Upcoming in October.</i>
