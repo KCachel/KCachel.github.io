@@ -11,10 +11,18 @@ comments: true
 
 <ul>
 	<li>
+		FairRankTune: A User-Friendly Toolkit Supporting Fair Ranking Tasks  - Non-archival track
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization. (EAAMO) 2023</i>
+  		<br><i>Upcoming in October.</i> <br>[<a href="https://kcachel.github.io/fairranktune/">Toolkit</a>]
+  			
+		
+	</li>
+	<li>
 		Fair & Share: Fast and Fair Multi-Criteria Selections
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2023</i>
-  		<br><i>Upcoming in October.</i>
+  		<br><i>Upcoming in October.</i> <br>[<a href="https://github.com/KCachel/FairAndShare">Code</a>]
   			
 		
 	</li>
