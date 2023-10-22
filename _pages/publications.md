@@ -19,12 +19,10 @@ comments: true
 		
 	</li>
 	<li>
-		Fair & Share: Fast and Fair Multi-Criteria Selections
+		<a href = "https://dl.acm.org/doi/10.1145/3583780.3614874">Fair & Share: Fast and Fair Multi-Criteria Selections</a>
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2023</i>
-  		<br><i>Upcoming in October.</i> <br>[<a href="https://github.com/KCachel/FairAndShare">Code</a>]
-  			
-		
+  		<br>[<a href="https://github.com/KCachel/FairAndShare">Code</a>] 	
 	</li>
 	<li>
 		<a href = "https://kcachel.github.io/assets/pdfs/Cachel-AIES23-poster.pdf">Ranked Candidate Fairness in Preference Aggregation</a>
