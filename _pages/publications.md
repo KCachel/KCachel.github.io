@@ -11,7 +11,7 @@ comments: true
 
 <ul>
 	<li>
-		Prefair: Combining Partial Preferences for Fair Consensus Decision-making</a>
+		Prefair: Combining Partial Preferences for Fair Consensus Decision-making
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>	
   		<br> Upcoming June 2024	
@@ -31,7 +31,7 @@ comments: true
 		FairRankTune: A User-Friendly Toolkit Supporting Fair Ranking Tasks  - Non-archival track
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization. (EAAMO) 2023</i>
-  		<br><i>Non-archival Track.</i> <br>[<a href="https://kcachel.github.io/fairranktune/">Toolkit</a>]
+  		<br>[<a href="https://kcachel.github.io/fairranktune/">Toolkit</a>]
   			
 		
 	</li>
