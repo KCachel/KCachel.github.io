@@ -7,6 +7,23 @@ permalink: /publications/
 author_profile: true
 comments: true
 ---
+<h2>2024</h2>
+
+<ul>
+	<li>
+		Prefair: Combining Partial Preferences for Fair Consensus Decision-making</a>
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>	
+  		<br> Upcoming June 2024	
+	</li>
+	<li>
+		Balancing Act: Evaluating People’s Perceptions of Fair Ranking Metrics
+		<br>Mallak Alkhathlan, <strong>Kathleen Cachel</strong>, Hilson Shrestha, Lane Harrison, and Elke Rundensteiner
+		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>			
+	</li>
+
+
+</ul>
 <h2>2023</h2>
 
 <ul>
@@ -14,7 +31,7 @@ comments: true
 		FairRankTune: A User-Friendly Toolkit Supporting Fair Ranking Tasks  - Non-archival track
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
 		<br><i>ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization. (EAAMO) 2023</i>
-  		<br><i>Upcoming in October.</i> <br>[<a href="https://kcachel.github.io/fairranktune/">Toolkit</a>]
+  		<br><i>Non-archival Track.</i> <br>[<a href="https://kcachel.github.io/fairranktune/">Toolkit</a>]
   			
 		
 	</li>
