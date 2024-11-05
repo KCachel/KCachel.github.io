@@ -11,13 +11,27 @@ comments: true
 
 <ul>
 	<li>
-		Prefair: Combining Partial Preferences for Fair Consensus Decision-making
+		<a href = "https://dl.acm.org/doi/10.1145/3627673.3679649">Wise Fusion: Group Fairness Enhanced Rank Fusion</a>
 		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
-		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>	
-  		<br> Upcoming June 2024	
+		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2024 </i>	
 	</li>
 	<li>
-		Balancing Act: Evaluating People’s Perceptions of Fair Ranking Metrics
+		<a href = "https://dl.acm.org/doi/10.1145/3627673.3679238">FairRankTune: A Python Toolkit for Fair Ranking Tasks</a>
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM International Conference on Information and Knowledge Management. (CIKM) 2024 </i>		
+	</li>
+	<li>
+		<a href = "https://ojs.aaai.org/index.php/AIES/article/view/31705">Hidden or Inferred: Fair Learning-To-Rank with Unknown Demographics</a>
+		<br><strong> Oluseun Olulana, Kathleen Cachel</strong>, Fabricio Murai, and Elke Rundensteiner
+		<br><i>ACM/AAAI Conference on AI, Ethics, and Society. (AIES) 2024 </i>	
+	</li>
+	<li>
+		<a href = "https://dl.acm.org/doi/10.1145/3630106.3658961">Prefair: Combining Partial Preferences for Fair Consensus Decision-making</a>
+		<br><strong>Kathleen Cachel</strong> and Elke Rundensteiner
+		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>	
+	</li>
+	<li>
+		<a href = "https://dl.acm.org/doi/10.1145/3630106.3659018">Balancing Act: Evaluating People’s Perceptions of Fair Ranking Metrics</a>
 		<br>Mallak Alkhathlan, <strong>Kathleen Cachel</strong>, Hilson Shrestha, Lane Harrison, and Elke Rundensteiner
 		<br><i>ACM Conference on Fairness, Accountability, and Transparency. (FAccT) 2024 </i>			
 	</li>
